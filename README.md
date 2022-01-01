@@ -7,7 +7,7 @@ it would have the slightest chance in getting read by the employer.
 A list resources that I find helpful is listed in the acknowledgments.
 ## Authors
 
-* **Ellis Sentoso** - *Data Science Student* - [Ellis Sentoso](https://github.com/ellissentoso) - *Program for Stock Price Prediction using RNN*
+* **Ellis Sentoso** - *Data Science Student* - [Ellis Sentoso](https://github.com/ellissentoso) - *ATS Program*
 
 ## Acknowledgements
 
